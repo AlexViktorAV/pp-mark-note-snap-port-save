@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30107992/README.md)
 # pp-mark-note-snap-port-save# ✒️ MNCMP Highlighter
 
 A privacy-focused Chrome Extension built to provide robust on-page text highlighting, precision note-anchoring architecture, and screenshot stitching systems.
